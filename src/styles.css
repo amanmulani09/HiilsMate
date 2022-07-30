@@ -1,0 +1,68 @@
+.App {
+  max-width: 100%;
+
+  justify-content: center;
+  height: 85vh;
+}
+
+.App button {
+  font-size: 1.2rem;
+  margin-left: 11px;
+  border-radius: 4px;
+  padding: 5px;
+  border: 2px solid blueviolet;
+  color: slateblue;
+  background-color: transparent;
+  cursor: pointer;
+  text-align: center;
+}
+
+.App button:hover {
+  background-color: slateblue;
+  color: white;
+}
+
+.cardcontainer {
+  width: 50%;
+  height: 40vh;
+  margin-top: 11px;
+  margin-left: 392px;
+}
+
+.card {
+  border: 2px solid darkgrey;
+  width: 70%;
+  margin-left: 22px;
+  border-radius: 7px;
+  height: 19vh;
+  margin-top: 7px;
+}
+
+.buttondiv {
+  border: 2px slid black;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2rem;
+  color: chartreuse;
+  margin-left: 43px;
+}
+.intro {
+  text-align: center;
+}
+
+.btn {
+  margin-left: 453px;
+}
+
+.cardcontainer h3 {
+  font-size: 2rem;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+
+.cardcontainer h5 {
+  font-size: 1.2rem;
+  margin-left: 13px;
+}
